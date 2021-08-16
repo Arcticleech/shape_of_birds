@@ -1,1 +1,2 @@
 circle is blue
+total area of shape is 10cm
