@@ -1,5 +1,6 @@
 square is blue
 total area of shape is 10 cm
+Outline of shape is green
 shape created by abel
 .::::..:::....
                            .:""":::..::.  :::..
