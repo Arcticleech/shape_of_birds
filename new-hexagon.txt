@@ -1,4 +1,4 @@
-hexagon is green
+Hexagon is pink
 Outline of shape is blue
 .::::..:::....
                            .:""":::..::.  :::..
