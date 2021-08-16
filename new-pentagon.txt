@@ -1,2 +1,3 @@
-utline of shape is blue
-
+<<<<<<< HEAD
+total area of shape is 10cm
+outline of shape is blue
